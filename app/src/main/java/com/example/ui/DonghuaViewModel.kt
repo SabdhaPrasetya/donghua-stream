@@ -18,6 +18,7 @@ import com.example.data.model.WatchHistoryItem
 import com.example.data.repository.DonghuaCatalog
 import com.example.data.repository.DonghuaRepository
 import kotlinx.coroutines.Job
+import kotlinx.coroutines.isActive
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.SharingStarted
