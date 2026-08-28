@@ -25,6 +25,6 @@ jobs:
         run: |
           git config --global user.name "DonghuaBot"
           git config --global user.email "bot@donghua.app"
-          git add donghua_catalog.json
+          git add server_tools/donghua_catalog.json
           git commit -m "Auto update episode donghua terbaru" || exit 0
           git push
