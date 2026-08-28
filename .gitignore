@@ -18,3 +18,4 @@ local.properties
 debug.keystore
 my-upload-key.jks
 app/google-services.json
+gradle/wrapper/gradle-wrapper.jar
