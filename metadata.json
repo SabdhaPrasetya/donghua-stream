@@ -1,0 +1,7 @@
+{
+  "name": "Donghua Stream",
+  "description": "Aplikasi streaming donghua lengkap dengan fitur unduhan offline, rekomendasi genre, dan paket VIP 4K tanpa iklan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
