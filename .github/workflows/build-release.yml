@@ -44,30 +44,8 @@ jobs:
           path: app/build/outputs/apk/release/*.apk
           retention-days: 30
 
-      - name: Create GitHub Release
-        if: github.ref == 'refs/heads/master'
-        uses: softprops/action-gh-release@v2
-        with:
-          files: app/build/outputs/apk/release/*.apk
-          tag_name: v1.0.${{ github.run_number }}
-          generate_release_notes: true
-          name: "Donghua Stream v1.0.${{ github.run_number }}"
-          body: |
-            🎬 Donghua Stream - Streaming & Unduhan 4K
-            
-            ### Fitur Utama:
-            - 📺 40+ Judul Donghua dengan Subtitle Indonesia
-            - 🎬 Streaming kualitas 4K Ultra HD
-            - 📥 Download untuk nonton offline
-            - 🔐 VIP subscription dengan GoPay
-            - 🎮 Sistem EXP & Kultivasi
-            
-            ### Cara Install:
-            1. Download APK dari release ini
-            2. Buka file APK di Android Anda
-            3. Izinkan install dari sumber tidak dikenal
-            4. Install dan buka aplikasi
-          draft: false
-          prerelease: false
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: APK Build Complete
+        run: |
+          echo "✅ APK berhasil dibuild!"
+          echo "📥 Download dari: https://github.com/${{ github.repository }}/actions"
+          echo "Klik workflow → scroll ke Artifacts → donghua-stream-release"
