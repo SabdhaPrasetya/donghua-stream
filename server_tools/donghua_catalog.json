@@ -1,542 +1,1389 @@
 [
   {
     "id": "supreme_god_emperor",
-    "title": "Supreme God Emperor",
-    "slug": "supreme-god-emperor-episode-635-subtitle-indonesia",
+    "title": "Kaisar Dewa Tertinggi (Supreme God Emperor)",
+    "chineseTitle": "无上神帝",
     "currentEpisodes": 635,
     "totalEpisodes": 0,
     "status": "Ongoing",
-    "poster": "https://donghub.vip/wp-content/uploads/2025/07/Supreme-God-Emperor-Subtitle-Indonesia.webp",
-    "uploadDay": "Unknown",
+    "genres": [
+      "Kultivasi",
+      "Reinkarnasi",
+      "Aksi"
+    ],
+    "rating": 8.5,
+    "studio": "Ruo Hong Culture",
+    "uploadDay": "Senin",
     "isRecentlyUpdated": true,
-    "latestEpisodeUpdateNote": "Episode 635 Sub Indo!"
+    "latestEpisodeUpdateNote": "Episode 635 Sub Indo!",
+    "poster": ""
   },
   {
     "id": "against_the_sky_supreme",
-    "title": "Against the Sky Supreme",
-    "slug": "against-the-sky-supreme-episode-544-subtitle-indonesia",
+    "title": "Melawan Langit Tertinggi (Against the Sky Supreme)",
+    "chineseTitle": "逆天至尊",
     "currentEpisodes": 544,
     "totalEpisodes": 0,
     "status": "Ongoing",
-    "poster": "https://donghub.vip/wp-content/uploads/2025/07/Against.webp",
-    "uploadDay": "Unknown",
+    "genres": [
+      "Kultivasi",
+      "Aksi",
+      "Fantasi"
+    ],
+    "rating": 8.4,
+    "studio": "Ruo Hong Culture",
+    "uploadDay": "Selasa",
     "isRecentlyUpdated": true,
-    "latestEpisodeUpdateNote": "Episode 544 Sub Indo!"
+    "latestEpisodeUpdateNote": "Episode 544 Sub Indo!",
+    "poster": ""
+  },
+  {
+    "id": "spirit_sword_sovereign",
+    "title": "Penguasa Pedang Jiwa (Spirit Sword Sovereign)",
+    "chineseTitle": "灵剑尊",
+    "currentEpisodes": 460,
+    "totalEpisodes": 0,
+    "status": "Ongoing",
+    "genres": [
+      "Reinkarnasi",
+      "Kultivasi",
+      "Wuxia"
+    ],
+    "rating": 8.4,
+    "studio": "Ruo Hong Culture",
+    "uploadDay": "Jumat",
+    "isRecentlyUpdated": true,
+    "latestEpisodeUpdateNote": "Episode 460 Sub Indo!",
+    "poster": ""
+  },
+  {
+    "id": "martial_master",
+    "title": "Guru Besar Bela Diri (Martial Master)",
+    "chineseTitle": "武神主宰",
+    "currentEpisodes": 455,
+    "totalEpisodes": 0,
+    "status": "Ongoing",
+    "genres": [
+      "Reinkarnasi",
+      "Kultivasi",
+      "Aksi"
+    ],
+    "rating": 8.6,
+    "studio": "Ruo Hong Culture",
+    "uploadDay": "Minggu",
+    "isRecentlyUpdated": true,
+    "latestEpisodeUpdateNote": "Episode 455 Sub Indo!",
+    "poster": ""
+  },
+  {
+    "id": "peerless_god_of_war",
+    "title": "Dewa Perang Tanpa Tanding (Peerless God of War)",
+    "chineseTitle": "绝世武神",
+    "currentEpisodes": 410,
+    "totalEpisodes": 0,
+    "status": "Ongoing",
+    "genres": [
+      "Kultivasi",
+      "Aksi",
+      "Reinkarnasi"
+    ],
+    "rating": 8.4,
+    "studio": "Soyep Culture",
+    "uploadDay": "Rabu",
+    "isRecentlyUpdated": true,
+    "latestEpisodeUpdateNote": "Episode 410 Sub Indo!",
+    "poster": ""
+  },
+  {
+    "id": "du_bu_xiao_yao",
+    "title": "Satu Langkah Menuju Kebebasan (One Step Toward Freedom)",
+    "chineseTitle": "独步逍遥",
+    "currentEpisodes": 380,
+    "totalEpisodes": 0,
+    "status": "Ongoing",
+    "genres": [
+      "Kultivasi",
+      "Reinkarnasi",
+      "Aksi"
+    ],
+    "rating": 8.5,
+    "studio": "Soyep Culture",
+    "uploadDay": "Senin",
+    "isRecentlyUpdated": true,
+    "latestEpisodeUpdateNote": "Episode 380 Sub Indo!",
+    "poster": ""
+  },
+  {
+    "id": "wan_jie_xian_zong",
+    "title": "Dunia Seribu Keajaiban (The Wonderland of Ten Thousands)",
+    "chineseTitle": "万界仙踪",
+    "currentEpisodes": 360,
+    "totalEpisodes": 0,
+    "status": "Ongoing",
+    "genres": [
+      "Kultivasi",
+      "Wuxia",
+      "Misteri"
+    ],
+    "rating": 8.5,
+    "studio": "Ruo Hong Culture",
+    "uploadDay": "Selasa",
+    "isRecentlyUpdated": true,
+    "latestEpisodeUpdateNote": "Episode 360 Sub Indo!",
+    "poster": ""
+  },
+  {
+    "id": "tales_of_demons_and_gods",
+    "title": "Kisah Iblis dan Dewa (Tales of Demons and Gods)",
+    "chineseTitle": "妖神记",
+    "currentEpisodes": 350,
+    "totalEpisodes": 0,
+    "status": "Ongoing",
+    "genres": [
+      "Reinkarnasi",
+      "Kultivasi",
+      "Aksi"
+    ],
+    "rating": 8.8,
+    "studio": "Ruo Hong Culture",
+    "uploadDay": "Minggu",
+    "isRecentlyUpdated": true,
+    "latestEpisodeUpdateNote": "Episode 350 Sub Indo!",
+    "poster": ""
+  },
+  {
+    "id": "wan_jie_shen_zhu",
+    "title": "Penguasa Semesta Alam (Lord of the Universe)",
+    "chineseTitle": "万界神主",
+    "currentEpisodes": 340,
+    "totalEpisodes": 0,
+    "status": "Ongoing",
+    "genres": [
+      "Fantasi",
+      "Kultivasi",
+      "Aksi"
+    ],
+    "rating": 8.5,
+    "studio": "Ruo Hong Culture",
+    "uploadDay": "Sabtu",
+    "isRecentlyUpdated": true,
+    "latestEpisodeUpdateNote": "Episode 340 Sub Indo!",
+    "poster": ""
+  },
+  {
+    "id": "ni_tian_zhun_zun",
+    "title": "Pemberontakan Melawan Dewa (Rebel of the Gods)",
+    "chineseTitle": "逆天至尊",
+    "currentEpisodes": 330,
+    "totalEpisodes": 0,
+    "status": "Ongoing",
+    "genres": [
+      "Kultivasi",
+      "Reinkarnasi",
+      "Balas Dendam"
+    ],
+    "rating": 8.4,
+    "studio": "Ruo Hong Culture",
+    "uploadDay": "Rabu",
+    "isRecentlyUpdated": true,
+    "latestEpisodeUpdateNote": "Episode 330 Sub Indo!",
+    "poster": ""
   },
   {
     "id": "perfect_world",
-    "title": "Perfect World Perfect World",
-    "slug": "perfect-world-episode-284-subtitle-indonesia",
+    "title": "Dunia Sempurna (Perfect World)",
+    "chineseTitle": "完美世界",
     "currentEpisodes": 284,
     "totalEpisodes": 0,
     "status": "Ongoing",
-    "poster": "https://donghub.vip/wp-content/uploads/2025/02/6102684551348947810.jpg",
-    "uploadDay": "Unknown",
+    "genres": [
+      "Kultivasi",
+      "Fantasi",
+      "Aksi"
+    ],
+    "rating": 9.9,
+    "studio": "Shanghai Foch Film",
+    "uploadDay": "Jumat",
     "isRecentlyUpdated": true,
-    "latestEpisodeUpdateNote": "Episode 284 Sub Indo!"
+    "latestEpisodeUpdateNote": "Episode 284 Sub Indo!",
+    "poster": ""
   },
   {
-    "id": "battle_through_the_heavens",
-    "title": "Battle Through the Heavens S5",
-    "slug": "battle-through-the-heavens-s5-episode-208-subtitle-indonesia",
-    "currentEpisodes": 208,
+    "id": "peerless_martial_spirit",
+    "title": "Jiwa Bertarung Tanpa Tanding (Peerless Martial Spirit)",
+    "chineseTitle": "绝世战魂",
+    "currentEpisodes": 280,
     "totalEpisodes": 0,
     "status": "Ongoing",
-    "poster": "https://donghub.vip/wp-content/uploads/2025/02/BTTH-S5.jpg",
-    "uploadDay": "Unknown",
+    "genres": [
+      "Kultivasi",
+      "Aksi",
+      "Fantasi"
+    ],
+    "rating": 8.4,
+    "studio": "Ruo Hong Culture",
+    "uploadDay": "Rabu",
     "isRecentlyUpdated": true,
-    "latestEpisodeUpdateNote": "Episode 208 Sub Indo!"
+    "latestEpisodeUpdateNote": "Episode 280 Sub Indo!",
+    "poster": ""
   },
   {
-    "id": "urban_miracle_doctor",
-    "title": "Urban Miracle Doctor",
-    "slug": "urban-miracle-doctor-episode-207-subtitle-indonesia",
-    "currentEpisodes": 207,
+    "id": "alchemy_supreme",
+    "title": "Kaisar Alkimia Tertinggi (Alchemy Supreme)",
+    "chineseTitle": "丹道至尊",
+    "currentEpisodes": 270,
     "totalEpisodes": 0,
     "status": "Ongoing",
-    "poster": "https://donghub.vip/wp-content/uploads/2026/04/Urban-Miracle-Doctor.webp",
-    "uploadDay": "Unknown",
+    "genres": [
+      "Kultivasi",
+      "Reinkarnasi",
+      "Fantasi"
+    ],
+    "rating": 8.3,
+    "studio": "Ruo Hong Culture",
+    "uploadDay": "Kamis",
     "isRecentlyUpdated": true,
-    "latestEpisodeUpdateNote": "Episode 207 Sub Indo!"
+    "latestEpisodeUpdateNote": "Episode 270 Sub Indo!",
+    "poster": ""
   },
   {
-    "id": "shrouding_the_heavens",
-    "title": "Shrouding the Heavens",
-    "slug": "shrouding-the-heavens-episode-177-subtitle-indonesia",
-    "currentEpisodes": 177,
-    "totalEpisodes": 0,
-    "status": "Ongoing",
-    "poster": "https://donghub.vip/wp-content/uploads/2025/02/Shrouding-the-Heavens.jpg",
-    "uploadDay": "Unknown",
+    "id": "soul_land",
+    "title": "Benua Douluo (Soul Land)",
+    "chineseTitle": "斗罗大陆",
+    "currentEpisodes": 260,
+    "totalEpisodes": 260,
+    "status": "Tamat",
+    "genres": [
+      "Kultivasi",
+      "Aksi",
+      "Fantasi"
+    ],
+    "rating": 9.8,
+    "studio": "Sparkly Key",
+    "uploadDay": "Senin",
     "isRecentlyUpdated": true,
-    "latestEpisodeUpdateNote": "Episode 177 Sub Indo!"
+    "latestEpisodeUpdateNote": "Episode 260 Sub Indo!",
+    "poster": ""
   },
   {
-    "id": "soul_land_2",
-    "title": "Soul Land 2",
-    "slug": "soul-land-2-episode-168-subtitle-indonesia",
-    "currentEpisodes": 168,
+    "id": "wu_geng_ji",
+    "title": "Kronik Perintah Dewa (Wu Geng Ji)",
+    "chineseTitle": "武庚纪",
+    "currentEpisodes": 260,
     "totalEpisodes": 0,
     "status": "Ongoing",
-    "poster": "https://donghub.vip/wp-content/uploads/2025/02/SL2.jpg",
-    "uploadDay": "Unknown",
+    "genres": [
+      "Aksi",
+      "Fantasi",
+      "Mitologi"
+    ],
+    "rating": 9.3,
+    "studio": "Sparkly Key",
+    "uploadDay": "Jumat",
     "isRecentlyUpdated": true,
-    "latestEpisodeUpdateNote": "Episode 168 Sub Indo!"
+    "latestEpisodeUpdateNote": "Episode 260 Sub Indo!",
+    "poster": ""
   },
   {
-    "id": "renegade_immortal",
-    "title": "Renegade Immortal Renegade Immortal",
-    "slug": "renegade-immortal-episode-156-subtitle-indonesia",
-    "currentEpisodes": 156,
+    "id": "legend_of_xianwu",
+    "title": "Legenda Kaisar Xianwu (Legend of Xianwu)",
+    "chineseTitle": "仙武帝尊",
+    "currentEpisodes": 250,
     "totalEpisodes": 0,
     "status": "Ongoing",
-    "poster": "https://donghub.vip/wp-content/uploads/2025/02/renegade-ascendent.jpg",
-    "uploadDay": "Unknown",
+    "genres": [
+      "Kultivasi",
+      "Reinkarnasi",
+      "Aksi"
+    ],
+    "rating": 8.7,
+    "studio": "Ruo Hong Culture",
+    "uploadDay": "Senin",
     "isRecentlyUpdated": true,
-    "latestEpisodeUpdateNote": "Episode 156 Sub Indo!"
+    "latestEpisodeUpdateNote": "Episode 250 Sub Indo!",
+    "poster": ""
   },
   {
-    "id": "my_senior_brother_is_too_steady",
-    "title": "My Senior Brother Is Too Steady",
-    "slug": "my-senior-brother-is-too-steady-episode-156-subtitle-indonesia",
-    "currentEpisodes": 156,
+    "id": "everlasting_god_of_sword",
+    "title": "Dewa Pedang Abadi (Everlasting God of Sword)",
+    "chineseTitle": "万界独尊",
+    "currentEpisodes": 240,
     "totalEpisodes": 0,
     "status": "Ongoing",
-    "poster": "https://donghub.vip/wp-content/uploads/2025/07/My-Senior-Brother-Is-Too-Steady.webp",
-    "uploadDay": "Unknown",
+    "genres": [
+      "Kultivasi",
+      "Aksi",
+      "Wuxia"
+    ],
+    "rating": 8.4,
+    "studio": "Ruo Hong Culture",
+    "uploadDay": "Sabtu",
     "isRecentlyUpdated": true,
-    "latestEpisodeUpdateNote": "Episode 156 Sub Indo!"
+    "latestEpisodeUpdateNote": "Episode 240 Sub Indo!",
+    "poster": ""
   },
   {
-    "id": "tales_of_herding_gods",
-    "title": "Tales of Herding Gods Tales of Herding Gods",
-    "slug": "tales-of-herding-gods-episode-97-subtitle-indonesia",
-    "currentEpisodes": 97,
+    "id": "ancient_myth",
+    "title": "Misteri Kuno Para Dewa (Ancient Myth)",
+    "chineseTitle": "上古秘约",
+    "currentEpisodes": 230,
     "totalEpisodes": 0,
     "status": "Ongoing",
-    "poster": "https://donghub.vip/wp-content/uploads/2025/02/herding-god-2025.jpg",
-    "uploadDay": "Unknown",
+    "genres": [
+      "Mitologi",
+      "Kultivasi",
+      "Fantasi"
+    ],
+    "rating": 8.3,
+    "studio": "Ruo Hong Culture",
+    "uploadDay": "Jumat",
     "isRecentlyUpdated": true,
-    "latestEpisodeUpdateNote": "Episode 97 Sub Indo!"
+    "latestEpisodeUpdateNote": "Episode 230 Sub Indo!",
+    "poster": ""
   },
   {
-    "id": "azure_legacy_the_demon_hunter",
-    "title": "[Azure Legacy] The Demon Hunter",
-    "slug": "azure-legacy-the-demon-hunter-episode-92-subtitle-indonesia",
-    "currentEpisodes": 92,
+    "id": "ten_thousand_worlds",
+    "title": "Dewa Sihir Sepuluh Ribu Alam (Ten Thousand Worlds)",
+    "chineseTitle": "万界法神",
+    "currentEpisodes": 220,
     "totalEpisodes": 0,
     "status": "Ongoing",
-    "poster": "https://donghub.vip/wp-content/uploads/2025/02/Azure-Legacy-S3-768x1152.jpg",
-    "uploadDay": "Unknown",
+    "genres": [
+      "Fantasi",
+      "Sihir",
+      "Reinkarnasi"
+    ],
+    "rating": 8.5,
+    "studio": "Ruo Hong Culture",
+    "uploadDay": "Senin",
     "isRecentlyUpdated": true,
-    "latestEpisodeUpdateNote": "Episode 92 Sub Indo!"
-  },
-  {
-    "id": "the_great_ruler",
-    "title": "The Great Ruler The Great Ruler",
-    "slug": "the-great-ruler-episode-88-subtitle-indonesia",
-    "currentEpisodes": 88,
-    "totalEpisodes": 0,
-    "status": "Ongoing",
-    "poster": "https://donghub.vip/wp-content/uploads/2026/01/TGR-Season-2.jpg",
-    "uploadDay": "Unknown",
-    "isRecentlyUpdated": true,
-    "latestEpisodeUpdateNote": "Episode 88 Sub Indo!"
-  },
-  {
-    "id": "jade_dynasty",
-    "title": "Jade Dynasty Jade Dynasty",
-    "slug": "jade-dynasty-episode-82-subtitle-indonesia",
-    "currentEpisodes": 82,
-    "totalEpisodes": 0,
-    "status": "Ongoing",
-    "poster": "https://donghub.vip/wp-content/uploads/2026/08/Jade-Dynasty-Final-Season-768x1077-1.jpg",
-    "uploadDay": "Unknown",
-    "isRecentlyUpdated": true,
-    "latestEpisodeUpdateNote": "Episode 82 Sub Indo!"
-  },
-  {
-    "id": "aliens_among_immortals",
-    "title": "Aliens Among Immortals",
-    "slug": "aliens-among-immortals-episode-57-subtitle-indonesia",
-    "currentEpisodes": 57,
-    "totalEpisodes": 0,
-    "status": "Ongoing",
-    "poster": "https://donghub.vip/wp-content/uploads/2026/03/Aliens-Among-Immortal-768x1023.jpg",
-    "uploadDay": "Unknown",
-    "isRecentlyUpdated": true,
-    "latestEpisodeUpdateNote": "Episode 57 Sub Indo!"
-  },
-  {
-    "id": "against_the_gods",
-    "title": "Against the Gods",
-    "slug": "against-the-gods-episode-52-subtitle-indonesia",
-    "currentEpisodes": 52,
-    "totalEpisodes": 0,
-    "status": "Ongoing",
-    "poster": "https://donghub.vip/wp-content/uploads/2026/04/against-the-gods-s2-768x1249-1.jpg",
-    "uploadDay": "Unknown",
-    "isRecentlyUpdated": true,
-    "latestEpisodeUpdateNote": "Episode 52 Sub Indo!"
-  },
-  {
-    "id": "the_supreme_dantian",
-    "title": "The Supreme Dantian",
-    "slug": "the-supreme-dantian-episode-24-subtitle-indonesia",
-    "currentEpisodes": 24,
-    "totalEpisodes": 0,
-    "status": "Ongoing",
-    "poster": "https://donghub.vip/wp-content/uploads/2025/10/The-Supreme-Dantian.webp",
-    "uploadDay": "Unknown",
-    "isRecentlyUpdated": true,
-    "latestEpisodeUpdateNote": "Episode 24 Sub Indo!"
-  },
-  {
-    "id": "the_heavenly_fate_villain",
-    "title": "The Heavenly Fate Villain",
-    "slug": "the-heavenly-fate-villain-episode-15-subtitle-indonesia",
-    "currentEpisodes": 15,
-    "totalEpisodes": 0,
-    "status": "Ongoing",
-    "poster": "https://donghub.vip/wp-content/uploads/2026/07/The-Heavenly-Fate-Villain-768x1077.png",
-    "uploadDay": "Unknown",
-    "isRecentlyUpdated": true,
-    "latestEpisodeUpdateNote": "Episode 15 Sub Indo!"
-  },
-  {
-    "id": "primeval_overlord",
-    "title": "Primeval Overlord",
-    "slug": "primeval-overlord-episode-12-subtitle-indonesia",
-    "currentEpisodes": 12,
-    "totalEpisodes": 0,
-    "status": "Ongoing",
-    "poster": "https://donghub.vip/wp-content/uploads/2026/07/Primeval-Overlord-768x1365.jpg",
-    "uploadDay": "Unknown",
-    "isRecentlyUpdated": true,
-    "latestEpisodeUpdateNote": "Episode 12 Sub Indo!"
-  },
-  {
-    "id": "under_the_gate",
-    "title": "Under the Gate",
-    "slug": "under-the-gate-episode-11-subtitle-indonesia",
-    "currentEpisodes": 11,
-    "totalEpisodes": 0,
-    "status": "Ongoing",
-    "poster": "https://donghub.vip/wp-content/uploads/2026/08/Under-the-Gate.jpg",
-    "uploadDay": "Unknown",
-    "isRecentlyUpdated": true,
-    "latestEpisodeUpdateNote": "Episode 11 Sub Indo!"
-  },
-  {
-    "id": "oriental_martial_academy",
-    "title": "Oriental Martial Academy",
-    "slug": "oriental-martial-academy-episode-08-subtitle-indonesia",
-    "currentEpisodes": 8,
-    "totalEpisodes": 0,
-    "status": "Ongoing",
-    "poster": "https://donghub.vip/wp-content/uploads/2026/07/Oriental-Master-Academy.jpg",
-    "uploadDay": "Unknown",
-    "isRecentlyUpdated": true,
-    "latestEpisodeUpdateNote": "Episode 8 Sub Indo!"
-  },
-  {
-    "id": "raised_by_demons_panda_li",
-    "title": "Raised by Demons: Panda Li",
-    "slug": "raised-by-demons-panda-li-episode-07-subtitle-indonesia",
-    "currentEpisodes": 7,
-    "totalEpisodes": 0,
-    "status": "Ongoing",
-    "poster": "https://donghub.vip/wp-content/uploads/2026/07/Raised-by-Demons-Panda-Li-768x1057-1.jpg",
-    "uploadDay": "Unknown",
-    "isRecentlyUpdated": true,
-    "latestEpisodeUpdateNote": "Episode 7 Sub Indo!"
-  },
-  {
-    "id": "heaven_sealing_contract",
-    "title": "Heaven Sealing Contract Heaven Sealing Contract",
-    "slug": "heaven-sealing-contract-episode-04-subtitle-indonesia",
-    "currentEpisodes": 0,
-    "totalEpisodes": 0,
-    "status": "Ongoing",
-    "poster": "https://donghub.vip/wp-content/uploads/2026/08/Heaven-Sealing-Contract-768x1152.jpg",
-    "uploadDay": "Unknown",
-    "isRecentlyUpdated": true,
-    "latestEpisodeUpdateNote": "Episode 0 Sub Indo!"
-  },
-  {
-    "id": "golden_curse",
-    "title": "Golden Curse Golden Curse",
-    "slug": "golden-curse-episode-04-subtitle-indonesia",
-    "currentEpisodes": 0,
-    "totalEpisodes": 0,
-    "status": "Ongoing",
-    "poster": "https://donghub.vip/wp-content/uploads/2026/08/Golden-Curse.jpg",
-    "uploadDay": "Unknown",
-    "isRecentlyUpdated": true,
-    "latestEpisodeUpdateNote": "Episode 0 Sub Indo!"
-  },
-  {
-    "id": "perfect_world_movie_nine_tribulations_burning_heaven",
-    "title": "Perfect World Movie: Nine Tribulations Burning Heaven Perfect World Movie: Nine Tribulations Burning Heaven",
-    "slug": "perfect-world-movie-nine-tribulations-burning-heaven-subtitle-indonesia",
-    "currentEpisodes": 0,
-    "totalEpisodes": 0,
-    "status": "Ongoing",
-    "poster": "https://donghub.vip/wp-content/uploads/2026/08/Wan-Mei-Shi-Jie-Movie-2.png",
-    "uploadDay": "Unknown",
-    "isRecentlyUpdated": true,
-    "latestEpisodeUpdateNote": "Episode 0 Sub Indo!"
-  },
-  {
-    "id": "to_be_winner",
-    "title": "To Be Winner To Be Winner",
-    "slug": "to-be-winner-episode-06-subtitle-indonesia",
-    "currentEpisodes": 0,
-    "totalEpisodes": 0,
-    "status": "Ongoing",
-    "poster": "https://donghub.vip/wp-content/uploads/2026/08/To-Be-Winner.jpg",
-    "uploadDay": "Unknown",
-    "isRecentlyUpdated": true,
-    "latestEpisodeUpdateNote": "Episode 0 Sub Indo!"
-  },
-  {
-    "id": "god_of_eternity",
-    "title": "God of Eternity God of Eternity",
-    "slug": "god-of-eternity-episode-03-subtitle-indonesia",
-    "currentEpisodes": 0,
-    "totalEpisodes": 0,
-    "status": "Ongoing",
-    "poster": "https://donghub.vip/wp-content/uploads/2026/07/God-of-Eternity-768x1077-1.png",
-    "uploadDay": "Unknown",
-    "isRecentlyUpdated": true,
-    "latestEpisodeUpdateNote": "Episode 0 Sub Indo!"
-  },
-  {
-    "id": "stay_low_profile_sect_chief",
-    "title": "Stay Low Profile, Sect Chief Stay Low Profile, Sect Chief",
-    "slug": "stay-low-profile-sect-chief-episode-22-subtitle-indonesia",
-    "currentEpisodes": 0,
-    "totalEpisodes": 0,
-    "status": "Ongoing",
-    "poster": "https://donghub.vip/wp-content/uploads/2026/06/Stay-Low-Profile-Sect-Chief-768x1367.webp",
-    "uploadDay": "Unknown",
-    "isRecentlyUpdated": true,
-    "latestEpisodeUpdateNote": "Episode 0 Sub Indo!"
-  },
-  {
-    "id": "the_daily_life_of_the_immortal_king",
-    "title": "The Daily Life of the Immortal King Season 5 The Daily Life of the Immortal King Season 5",
-    "slug": "the-daily-life-of-the-immortal-king-season-5-episode-12-subtitle-indonesia",
-    "currentEpisodes": 0,
-    "totalEpisodes": 0,
-    "status": "Ongoing",
-    "poster": "https://donghub.vip/wp-content/uploads/2025/12/The-Daily-Life-Season-5.jpg",
-    "uploadDay": "Unknown",
-    "isRecentlyUpdated": true,
-    "latestEpisodeUpdateNote": "Episode 0 Sub Indo!"
-  },
-  {
-    "id": "divine_manifestation",
-    "title": "Divine Manifestation Divine Manifestation",
-    "slug": "divine-manifestation-episode-26-subtitle-indonesia",
-    "currentEpisodes": 0,
-    "totalEpisodes": 0,
-    "status": "Ongoing",
-    "poster": "https://donghub.vip/wp-content/uploads/2025/10/Divine-Manifestation.png",
-    "uploadDay": "Unknown",
-    "isRecentlyUpdated": true,
-    "latestEpisodeUpdateNote": "Episode 0 Sub Indo!"
-  },
-  {
-    "id": "ancient_vengeance_windbreaker_arc",
-    "title": "Ancient Vengeance: Windbreaker Arc Ancient Vengeance: Windbreaker Arc",
-    "slug": "ancient-vengeance-windbreaker-arc-episode-40-subtitle-indonesia",
-    "currentEpisodes": 0,
-    "totalEpisodes": 0,
-    "status": "Ongoing",
-    "poster": "https://donghub.vip/wp-content/uploads/2025/09/0-3-768x1077.webp",
-    "uploadDay": "Unknown",
-    "isRecentlyUpdated": true,
-    "latestEpisodeUpdateNote": "Episode 0 Sub Indo!"
-  },
-  {
-    "id": "one_slash_to_the_heavens",
-    "title": "One Slash to the Heavens One Slash to the Heavens",
-    "slug": "one-slash-to-the-heavens-episode-06-subtitle-indonesia",
-    "currentEpisodes": 0,
-    "totalEpisodes": 0,
-    "status": "Ongoing",
-    "poster": "https://donghub.vip/wp-content/uploads/2026/07/One-Slash-to-the-Heavens-768x1152.webp",
-    "uploadDay": "Unknown",
-    "isRecentlyUpdated": true,
-    "latestEpisodeUpdateNote": "Episode 0 Sub Indo!"
-  },
-  {
-    "id": "eat_around_the_mortal_world",
-    "title": "Eat Around the Mortal World Eat Around the Mortal World",
-    "slug": "eat-around-the-mortal-world-episode-15-subtitle-indonesia",
-    "currentEpisodes": 0,
-    "totalEpisodes": 0,
-    "status": "Ongoing",
-    "poster": "https://donghub.vip/wp-content/uploads/2025/11/Eat-Around-the-Mortal-World-Subtitle-Indonesia.jpg",
-    "uploadDay": "Unknown",
-    "isRecentlyUpdated": true,
-    "latestEpisodeUpdateNote": "Episode 0 Sub Indo!"
-  },
-  {
-    "id": "wu_dong_qian_kun",
-    "title": "Wu Dong Qian Kun Season 6 Wu Dong Qian Kun Season 6",
-    "slug": "wu-dong-qian-kun-season-6-episode-12-subtitle-indonesia",
-    "currentEpisodes": 0,
-    "totalEpisodes": 0,
-    "status": "Ongoing",
-    "poster": "https://donghub.vip/wp-content/uploads/2025/11/Martial-Universe-Wu-Dong-Qian-Kun-Season-6.jpg",
-    "uploadDay": "Unknown",
-    "isRecentlyUpdated": true,
-    "latestEpisodeUpdateNote": "Episode 0 Sub Indo!"
-  },
-  {
-    "id": "wu_dong_qian_kun",
-    "title": "Wu Dong Qian Kun Season 5 Wu Dong Qian Kun Season 5",
-    "slug": "wu-dong-qian-kun-season-5-episode-12-subtitle-indonesia",
-    "currentEpisodes": 0,
-    "totalEpisodes": 0,
-    "status": "Ongoing",
-    "poster": "https://donghub.vip/wp-content/uploads/2025/11/Wu-Dong-Qian-Kun-Season-5-Subtitle-Indonesia.jpg",
-    "uploadDay": "Unknown",
-    "isRecentlyUpdated": true,
-    "latestEpisodeUpdateNote": "Episode 0 Sub Indo!"
-  },
-  {
-    "id": "tales_of_demons_and_gods",
-    "title": "Tales of Demons and Gods Season 10 Tales of Demons and Gods Season 10",
-    "slug": "tales-of-demons-and-gods-season-10-episode-13-subtitle-indonesia",
-    "currentEpisodes": 0,
-    "totalEpisodes": 0,
-    "status": "Ongoing",
-    "poster": "https://donghub.vip/wp-content/uploads/2026/07/TODG-S10.jpg",
-    "uploadDay": "Unknown",
-    "isRecentlyUpdated": true,
-    "latestEpisodeUpdateNote": "Episode 0 Sub Indo!"
-  },
-  {
-    "id": "sword_and_fairy_3",
-    "title": "Sword and Fairy 3 Sword and Fairy 3",
-    "slug": "sword-and-fairy-3-episode-26-subtitle-indonesia",
-    "currentEpisodes": 0,
-    "totalEpisodes": 0,
-    "status": "Ongoing",
-    "poster": "https://donghub.vip/wp-content/uploads/2025/12/Sword-and-Fairy-3-768x1077-1.jpg",
-    "uploadDay": "Unknown",
-    "isRecentlyUpdated": true,
-    "latestEpisodeUpdateNote": "Episode 0 Sub Indo!"
-  },
-  {
-    "id": "perfect_world_movie_ashes_of_fire",
-    "title": "Perfect World Movie: Ashes of Fire Perfect World Movie: Ashes of Fire",
-    "slug": "perfect-world-movie-ashes-of-fire-episode-03-subtitle-indonesia",
-    "currentEpisodes": 0,
-    "totalEpisodes": 0,
-    "status": "Ongoing",
-    "poster": "https://donghub.vip/wp-content/uploads/2025/09/perfect-world-movie.jpg",
-    "uploadDay": "Unknown",
-    "isRecentlyUpdated": true,
-    "latestEpisodeUpdateNote": "Episode 0 Sub Indo!"
-  },
-  {
-    "id": "i_am_yingtai",
-    "title": "I am “Yingtai” I am “Yingtai”",
-    "slug": "i-am-yingtai-episode-12-subtitle-indonesia",
-    "currentEpisodes": 0,
-    "totalEpisodes": 0,
-    "status": "Ongoing",
-    "poster": "https://donghub.vip/wp-content/uploads/2025/07/i-am-Yingtai.jpg",
-    "uploadDay": "Unknown",
-    "isRecentlyUpdated": true,
-    "latestEpisodeUpdateNote": "Episode 0 Sub Indo!"
-  },
-  {
-    "id": "tales_of_demons_and_gods",
-    "title": "Tales of Demons and Gods Season 9 Tales of Demons and Gods Season 9",
-    "slug": "tales-of-demons-and-gods-season-9-episode-49-52-subtitle-indonesia",
-    "currentEpisodes": 0,
-    "totalEpisodes": 0,
-    "status": "Ongoing",
-    "poster": "https://donghub.vip/wp-content/uploads/2025/07/TODG-S9.png",
-    "uploadDay": "Unknown",
-    "isRecentlyUpdated": true,
-    "latestEpisodeUpdateNote": "Episode 0 Sub Indo!"
-  },
-  {
-    "id": "the_ravages_of_time",
-    "title": "The Ravages Of Time Season 2 The Ravages Of Time Season 2",
-    "slug": "the-ravages-of-time-season-2-episode-6-subtitle-indonesia",
-    "currentEpisodes": 0,
-    "totalEpisodes": 0,
-    "status": "Ongoing",
-    "poster": "https://donghub.vip/wp-content/uploads/2025/02/the-ravege-of-time-2-768x1075.jpg",
-    "uploadDay": "Unknown",
-    "isRecentlyUpdated": true,
-    "latestEpisodeUpdateNote": "Episode 0 Sub Indo!"
-  },
-  {
-    "id": "tales_of_herding_gods",
-    "title": "Tales of Herding Gods",
-    "slug": "tales-of-herding-gods",
-    "currentEpisodes": 0,
-    "totalEpisodes": 0,
-    "status": "Ongoing",
-    "poster": "https://donghub.vip/wp-content/uploads/2025/02/herding-poster-rotated.jpg",
-    "uploadDay": "Unknown",
-    "isRecentlyUpdated": true,
-    "latestEpisodeUpdateNote": "Episode 0 Sub Indo!"
-  },
-  {
-    "id": "throne_of_seal",
-    "title": "Throne of Seal",
-    "slug": "throne-of-seal",
-    "currentEpisodes": 0,
-    "totalEpisodes": 0,
-    "status": "Ongoing",
-    "poster": "https://donghub.vip/wp-content/uploads/2025/02/throne-poster-rotated.jpg",
-    "uploadDay": "Unknown",
-    "isRecentlyUpdated": true,
-    "latestEpisodeUpdateNote": "Episode 0 Sub Indo!"
-  },
-  {
-    "id": "perfect_world",
-    "title": "Perfect World",
-    "slug": "perfect-world",
-    "currentEpisodes": 0,
-    "totalEpisodes": 0,
-    "status": "Ongoing",
-    "poster": "https://donghub.vip/wp-content/uploads/2025/02/perfect-world-poster-1-rotated.jpg",
-    "uploadDay": "Unknown",
-    "isRecentlyUpdated": true,
-    "latestEpisodeUpdateNote": "Episode 0 Sub Indo!"
+    "latestEpisodeUpdateNote": "Episode 220 Sub Indo!",
+    "poster": ""
   },
   {
     "id": "btth",
-    "title": "Battle Through The Heavens Season 5",
-    "slug": "battle-through-the-heavens-season-5",
-    "currentEpisodes": 0,
+    "title": "Pertarungan Memecah Langit (Battle Through the Heavens)",
+    "chineseTitle": "斗破苍穹",
+    "currentEpisodes": 208,
     "totalEpisodes": 0,
     "status": "Ongoing",
-    "poster": "https://donghub.vip/wp-content/uploads/2025/02/btth-poster-rotated.jpg",
+    "genres": [
+      "Kultivasi",
+      "Wuxia",
+      "Aksi"
+    ],
+    "rating": 9.8,
+    "studio": "Shanghai Foch Film",
+    "uploadDay": "Minggu",
+    "isRecentlyUpdated": true,
+    "latestEpisodeUpdateNote": "Episode 208 Sub Indo!",
+    "poster": ""
+  },
+  {
+    "id": "urban_miracle_doctor",
+    "title": "Dokter Urban Ajaib (Urban Miracle Doctor)",
+    "chineseTitle": "都市全能医生",
+    "currentEpisodes": 207,
+    "totalEpisodes": 0,
+    "status": "Ongoing",
+    "genres": [
+      "Urban",
+      "Drama",
+      "Kultivasi"
+    ],
+    "rating": 8.5,
+    "studio": "Various",
     "uploadDay": "Unknown",
     "isRecentlyUpdated": true,
-    "latestEpisodeUpdateNote": "Episode 0 Sub Indo!"
+    "latestEpisodeUpdateNote": "Episode 207 Sub Indo!",
+    "poster": ""
+  },
+  {
+    "id": "swallowed_star",
+    "title": "Bintang Pemangsa (Swallowed Star)",
+    "chineseTitle": "吞噬星空",
+    "currentEpisodes": 190,
+    "totalEpisodes": 0,
+    "status": "Ongoing",
+    "genres": [
+      "Sci-Fi",
+      "Aksi",
+      "Kultivasi"
+    ],
+    "rating": 9.8,
+    "studio": "Sparkly Key",
+    "uploadDay": "Rabu",
+    "isRecentlyUpdated": true,
+    "latestEpisodeUpdateNote": "Episode 190 Sub Indo!",
+    "poster": ""
+  },
+  {
+    "id": "a_will_eternal",
+    "title": "Kehendak Abadi (A Will Eternal)",
+    "chineseTitle": "一念永恒",
+    "currentEpisodes": 180,
+    "totalEpisodes": 0,
+    "status": "Ongoing",
+    "genres": [
+      "Komedi",
+      "Kultivasi",
+      "Aksi"
+    ],
+    "rating": 9.6,
+    "studio": "B.CMAY PICTURES",
+    "uploadDay": "Rabu",
+    "isRecentlyUpdated": true,
+    "latestEpisodeUpdateNote": "Episode 180 Sub Indo!",
+    "poster": ""
+  },
+  {
+    "id": "fanren",
+    "title": "Catatan Perjalanan Kultivator Fana (A Record of a Mortal's Journey)",
+    "chineseTitle": "凡人修仙传",
+    "currentEpisodes": 178,
+    "totalEpisodes": 0,
+    "status": "Ongoing",
+    "genres": [
+      "Kultivasi",
+      "Wuxia",
+      "Petualangan"
+    ],
+    "rating": 9.8,
+    "studio": "Wonder Cat Animation",
+    "uploadDay": "Sabtu",
+    "isRecentlyUpdated": true,
+    "latestEpisodeUpdateNote": "Episode 178 Sub Indo!",
+    "poster": ""
+  },
+  {
+    "id": "shrouding_the_heavens",
+    "title": "Menyelubungi Langit (Shrouding the Heavens)",
+    "chineseTitle": "遮天",
+    "currentEpisodes": 177,
+    "totalEpisodes": 0,
+    "status": "Ongoing",
+    "genres": [
+      "Kultivasi",
+      "Sci-Fi",
+      "Aksi"
+    ],
+    "rating": 9.5,
+    "studio": "Sparkly Key",
+    "uploadDay": "Rabu",
+    "isRecentlyUpdated": true,
+    "latestEpisodeUpdateNote": "Episode 177 Sub Indo!",
+    "poster": ""
+  },
+  {
+    "id": "the_legend_of_qin",
+    "title": "Legenda Dinasti Qin (The Legend of Qin)",
+    "chineseTitle": "秦时明月",
+    "currentEpisodes": 175,
+    "totalEpisodes": 175,
+    "status": "Tamat",
+    "genres": [
+      "Wuxia",
+      "Sejarah",
+      "Aksi"
+    ],
+    "rating": 9.8,
+    "studio": "Sparkly Key",
+    "uploadDay": "Kamis",
+    "isRecentlyUpdated": true,
+    "latestEpisodeUpdateNote": "Episode 175 Sub Indo!",
+    "poster": ""
+  },
+  {
+    "id": "soul_land_2",
+    "title": "Benua Douluo 2: Sekte Tang Tanpa Tanding (Soul Land 2)",
+    "chineseTitle": "斗罗大陆II",
+    "currentEpisodes": 168,
+    "totalEpisodes": 0,
+    "status": "Ongoing",
+    "genres": [
+      "Kultivasi",
+      "Aksi",
+      "Fantasi"
+    ],
+    "rating": 9.6,
+    "studio": "Sparkly Key",
+    "uploadDay": "Sabtu",
+    "isRecentlyUpdated": true,
+    "latestEpisodeUpdateNote": "Episode 168 Sub Indo!",
+    "poster": ""
   },
   {
     "id": "renegade_immortal",
-    "title": "Renegade Immortal",
-    "slug": "renegade-immortal",
-    "currentEpisodes": 0,
+    "title": "Kultivasi Tanpa Batas (Renegade Immortal)",
+    "chineseTitle": "仙逆",
+    "currentEpisodes": 156,
     "totalEpisodes": 0,
     "status": "Ongoing",
-    "poster": "https://donghub.vip/wp-content/uploads/2025/02/rinegade-poster-rotated.jpg",
-    "uploadDay": "Unknown",
+    "genres": [
+      "Kultivasi",
+      "Aksi",
+      "Fantasi"
+    ],
+    "rating": 9.9,
+    "studio": "Tencent Penguin Pictures",
+    "uploadDay": "Senin",
     "isRecentlyUpdated": true,
-    "latestEpisodeUpdateNote": "Episode 0 Sub Indo!"
+    "latestEpisodeUpdateNote": "Episode 156 Sub Indo!",
+    "poster": ""
+  },
+  {
+    "id": "big_brother",
+    "title": "Kakak Tertua Terhebat (Big Brother)",
+    "chineseTitle": "师兄啊师兄",
+    "currentEpisodes": 156,
+    "totalEpisodes": 0,
+    "status": "Ongoing",
+    "genres": [
+      "Komedi",
+      "Kultivasi",
+      "Fantasi"
+    ],
+    "rating": 9.6,
+    "studio": "Sparkly Key",
+    "uploadDay": "Kamis",
+    "isRecentlyUpdated": true,
+    "latestEpisodeUpdateNote": "Episode 156 Sub Indo!",
+    "poster": ""
+  },
+  {
+    "id": "immortality_yongsheng",
+    "title": "Keabadian Tanpa Batas (Immortality)",
+    "chineseTitle": "永生",
+    "currentEpisodes": 148,
+    "totalEpisodes": 0,
+    "status": "Ongoing",
+    "genres": [
+      "Kultivasi",
+      "Aksi",
+      "Wuxia"
+    ],
+    "rating": 9.4,
+    "studio": "Shanghai Foch Film",
+    "uploadDay": "Jumat",
+    "isRecentlyUpdated": true,
+    "latestEpisodeUpdateNote": "Episode 148 Sub Indo!",
+    "poster": ""
+  },
+  {
+    "id": "martial_universe",
+    "title": "Semesta Bela Diri (Martial Universe)",
+    "chineseTitle": "武动乾坤",
+    "currentEpisodes": 140,
+    "totalEpisodes": 0,
+    "status": "Ongoing",
+    "genres": [
+      "Kultivasi",
+      "Wuxia",
+      "Aksi"
+    ],
+    "rating": 9.4,
+    "studio": "Shanghai Foch Film",
+    "uploadDay": "Selasa",
+    "isRecentlyUpdated": true,
+    "latestEpisodeUpdateNote": "Episode 140 Sub Indo!",
+    "poster": ""
+  },
+  {
+    "id": "zhen_wu_dianfeng",
+    "title": "Puncak Bela Diri Sejati (The Peak of True Martial Arts)",
+    "chineseTitle": "真武巅峰",
+    "currentEpisodes": 140,
+    "totalEpisodes": 0,
+    "status": "Ongoing",
+    "genres": [
+      "Kultivasi",
+      "Aksi",
+      "Fantasi"
+    ],
+    "rating": 8.5,
+    "studio": "Ruo Hong Culture",
+    "uploadDay": "Selasa",
+    "isRecentlyUpdated": true,
+    "latestEpisodeUpdateNote": "Episode 140 Sub Indo!",
+    "poster": ""
+  },
+  {
+    "id": "fox_spirit_matchmaker",
+    "title": "Mak Comblang Peri Rubah (Fox Spirit Matchmaker)",
+    "chineseTitle": "狐妖小红娘",
+    "currentEpisodes": 140,
+    "totalEpisodes": 140,
+    "status": "Tamat",
+    "genres": [
+      "Romantis",
+      "Fantasi",
+      "Komedi"
+    ],
+    "rating": 9.7,
+    "studio": "Haoliners",
+    "uploadDay": "Sabtu",
+    "isRecentlyUpdated": true,
+    "latestEpisodeUpdateNote": "Episode 140 Sub Indo!",
+    "poster": ""
+  },
+  {
+    "id": "throne_of_seal",
+    "title": "Singgasana Segel Suci (Throne of Seal)",
+    "chineseTitle": "神印王座",
+    "currentEpisodes": 120,
+    "totalEpisodes": 0,
+    "status": "Ongoing",
+    "genres": [
+      "Fantasi",
+      "Kultivasi",
+      "Aksi"
+    ],
+    "rating": 9.7,
+    "studio": "Sparkly Key",
+    "uploadDay": "Kamis",
+    "isRecentlyUpdated": true,
+    "latestEpisodeUpdateNote": "Episode 120 Sub Indo!",
+    "poster": ""
+  },
+  {
+    "id": "hua_jiang_hu_buliangren",
+    "title": "Pendekar Sungai dan Danau: Bu Liang Ren",
+    "chineseTitle": "画江湖之不良人",
+    "currentEpisodes": 120,
+    "totalEpisodes": 120,
+    "status": "Tamat",
+    "genres": [
+      "Wuxia",
+      "Sejarah",
+      "Aksi"
+    ],
+    "rating": 9.9,
+    "studio": "Rocen Digital",
+    "uploadDay": "Kamis",
+    "isRecentlyUpdated": true,
+    "latestEpisodeUpdateNote": "Episode 120 Sub Indo!",
+    "poster": ""
+  },
+  {
+    "id": "tales_of_herding_gods",
+    "title": "Kisah Menggembala Dewa (Tales of Herding Gods)",
+    "chineseTitle": "牧神记",
+    "currentEpisodes": 97,
+    "totalEpisodes": 0,
+    "status": "Ongoing",
+    "genres": [
+      "Kultivasi",
+      "Aksi",
+      "Fantasi"
+    ],
+    "rating": 9.9,
+    "studio": "Sparkly Key",
+    "uploadDay": "Minggu",
+    "isRecentlyUpdated": true,
+    "latestEpisodeUpdateNote": "Episode 97 Sub Indo!",
+    "poster": ""
+  },
+  {
+    "id": "the_demon_hunter",
+    "title": "Sang Pemburu Iblis (The Demon Hunter)",
+    "chineseTitle": "沧元图",
+    "currentEpisodes": 92,
+    "totalEpisodes": 92,
+    "status": "Tamat",
+    "genres": [
+      "Aksi",
+      "Fantasi",
+      "Kultivasi"
+    ],
+    "rating": 9.7,
+    "studio": "Sparkly Key",
+    "uploadDay": "Kamis",
+    "isRecentlyUpdated": true,
+    "latestEpisodeUpdateNote": "Episode 92 Sub Indo!",
+    "poster": ""
+  },
+  {
+    "id": "magic_chef_ice_fire",
+    "title": "Koki Ajaib Es dan Api (The Magic Chef of Ice and Fire)",
+    "chineseTitle": "冰火魔厨",
+    "currentEpisodes": 92,
+    "totalEpisodes": 0,
+    "status": "Ongoing",
+    "genres": [
+      "Fantasi",
+      "Sihir",
+      "Kuliner"
+    ],
+    "rating": 9.2,
+    "studio": "Sparkly Key",
+    "uploadDay": "Sabtu",
+    "isRecentlyUpdated": true,
+    "latestEpisodeUpdateNote": "Episode 92 Sub Indo!",
+    "poster": ""
+  },
+  {
+    "id": "nine_songs_of_moving_heavens",
+    "title": "Sembilan Lagu Langit (Nine Songs of the Moving Heavens)",
+    "chineseTitle": "天行九歌",
+    "currentEpisodes": 90,
+    "totalEpisodes": 90,
+    "status": "Tamat",
+    "genres": [
+      "Wuxia",
+      "Sejarah",
+      "Misteri"
+    ],
+    "rating": 9.7,
+    "studio": "Sparkly Key",
+    "uploadDay": "Rabu",
+    "isRecentlyUpdated": true,
+    "latestEpisodeUpdateNote": "Episode 90 Sub Indo!",
+    "poster": ""
+  },
+  {
+    "id": "the_great_ruler",
+    "title": "Penguasa Agung Semesta (The Great Ruler)",
+    "chineseTitle": "大主宰",
+    "currentEpisodes": 88,
+    "totalEpisodes": 0,
+    "status": "Ongoing",
+    "genres": [
+      "Kultivasi",
+      "Romantis",
+      "Aksi"
+    ],
+    "rating": 9.4,
+    "studio": "Shanghai Foch Film",
+    "uploadDay": "Selasa",
+    "isRecentlyUpdated": true,
+    "latestEpisodeUpdateNote": "Episode 88 Sub Indo!",
+    "poster": ""
+  },
+  {
+    "id": "jade_dynasty",
+    "title": "Legenda Pedang Giok (Jade Dynasty)",
+    "chineseTitle": "诛仙",
+    "currentEpisodes": 82,
+    "totalEpisodes": 0,
+    "status": "Ongoing",
+    "genres": [
+      "Wuxia",
+      "Romantis",
+      "Kultivasi"
+    ],
+    "rating": 9.5,
+    "studio": "Cloud Art",
+    "uploadDay": "Sabtu",
+    "isRecentlyUpdated": true,
+    "latestEpisodeUpdateNote": "Episode 82 Sub Indo!",
+    "poster": ""
+  },
+  {
+    "id": "apotheosis",
+    "title": "Menempa Diri Menjadi Dewa (Apotheosis)",
+    "chineseTitle": "百炼成神",
+    "currentEpisodes": 80,
+    "totalEpisodes": 0,
+    "status": "Ongoing",
+    "genres": [
+      "Kultivasi",
+      "Aksi",
+      "Fantasi"
+    ],
+    "rating": 9.1,
+    "studio": "Tencent Penguin Pictures",
+    "uploadDay": "Kamis",
+    "isRecentlyUpdated": true,
+    "latestEpisodeUpdateNote": "Episode 80 Sub Indo!",
+    "poster": ""
+  },
+  {
+    "id": "snow_eagle_lord",
+    "title": "Tuan Rajawali Salju (Snow Eagle Lord)",
+    "chineseTitle": "雪鹰领主",
+    "currentEpisodes": 78,
+    "totalEpisodes": 78,
+    "status": "Tamat",
+    "genres": [
+      "Kultivasi",
+      "Aksi",
+      "Fantasi"
+    ],
+    "rating": 9.2,
+    "studio": "Shanghai Foch Film",
+    "uploadDay": "Selasa",
+    "isRecentlyUpdated": true,
+    "latestEpisodeUpdateNote": "Episode 78 Sub Indo!",
+    "poster": ""
+  },
+  {
+    "id": "full_time_magister",
+    "title": "Penyihir Serba Bisa (Full-Time Magister)",
+    "chineseTitle": "全职法师",
+    "currentEpisodes": 72,
+    "totalEpisodes": 72,
+    "status": "Tamat",
+    "genres": [
+      "Sihir",
+      "Aksi",
+      "Sekolah"
+    ],
+    "rating": 9.2,
+    "studio": "Shanghai Foch Film",
+    "uploadDay": "Minggu",
+    "isRecentlyUpdated": true,
+    "latestEpisodeUpdateNote": "Episode 72 Sub Indo!",
+    "poster": ""
+  },
+  {
+    "id": "stellar_transformations",
+    "title": "Transformasi Bintang (Stellar Transformation)",
+    "chineseTitle": "星辰变",
+    "currentEpisodes": 65,
+    "totalEpisodes": 65,
+    "status": "Tamat",
+    "genres": [
+      "Kultivasi",
+      "Wuxia",
+      "Aksi"
+    ],
+    "rating": 9.3,
+    "studio": "Shanghai Foch Film",
+    "uploadDay": "Rabu",
+    "isRecentlyUpdated": true,
+    "latestEpisodeUpdateNote": "Episode 65 Sub Indo!",
+    "poster": ""
+  },
+  {
+    "id": "transcendent_heroes",
+    "title": "Pasukan Pahlawan Transenden (Transcendent Heroes)",
+    "chineseTitle": "雄兵连",
+    "currentEpisodes": 60,
+    "totalEpisodes": 60,
+    "status": "Tamat",
+    "genres": [
+      "Sci-Fi",
+      "Aksi",
+      "Superhero"
+    ],
+    "rating": 9.6,
+    "studio": "Chao Shen Xue Yuan",
+    "uploadDay": "Sabtu",
+    "isRecentlyUpdated": true,
+    "latestEpisodeUpdateNote": "Episode 60 Sub Indo!",
+    "poster": ""
+  },
+  {
+    "id": "ze_tian_ji",
+    "title": "Pilihan Takdir (Fighter of the Destiny)",
+    "chineseTitle": "择天记",
+    "currentEpisodes": 60,
+    "totalEpisodes": 60,
+    "status": "Tamat",
+    "genres": [
+      "Kultivasi",
+      "Fantasi",
+      "Wuxia"
+    ],
+    "rating": 9.3,
+    "studio": "Shanghai Foch Film",
+    "uploadDay": "Kamis",
+    "isRecentlyUpdated": true,
+    "latestEpisodeUpdateNote": "Episode 60 Sub Indo!",
+    "poster": ""
+  },
+  {
+    "id": "aliens_among_immortals",
+    "title": "Pendatang Asing Di Antara Para Dewa",
+    "chineseTitle": "异人之下",
+    "currentEpisodes": 57,
+    "totalEpisodes": 0,
+    "status": "Ongoing",
+    "genres": [
+      "Aksi",
+      "Wuxia",
+      "Misteri"
+    ],
+    "rating": 6.8,
+    "studio": "Tencent Penguin Pictures",
+    "uploadDay": "Kamis",
+    "isRecentlyUpdated": true,
+    "latestEpisodeUpdateNote": "Episode 57 Sub Indo!",
+    "poster": ""
+  },
+  {
+    "id": "hitori_no_shita",
+    "title": "Manusia Luar Biasa (The Outcast)",
+    "chineseTitle": "一人之下",
+    "currentEpisodes": 54,
+    "totalEpisodes": 54,
+    "status": "Tamat",
+    "genres": [
+      "Aksi",
+      "Wuxia",
+      "Misteri"
+    ],
+    "rating": 9.6,
+    "studio": "Haoliners",
+    "uploadDay": "Kamis",
+    "isRecentlyUpdated": true,
+    "latestEpisodeUpdateNote": "Episode 54 Sub Indo!",
+    "poster": ""
+  },
+  {
+    "id": "against_the_gods",
+    "title": "Melawan Kehendak Para Dewa (Against the Gods)",
+    "chineseTitle": "逆天邪神",
+    "currentEpisodes": 52,
+    "totalEpisodes": 0,
+    "status": "Ongoing",
+    "genres": [
+      "Kultivasi",
+      "Reinkarnasi",
+      "Aksi"
+    ],
+    "rating": 9.2,
+    "studio": "Shanghai Foch Film",
+    "uploadDay": "Senin",
+    "isRecentlyUpdated": true,
+    "latestEpisodeUpdateNote": "Episode 52 Sub Indo!",
+    "poster": ""
+  },
+  {
+    "id": "shaonian_ge_xing",
+    "title": "Lagu Pemuda Pengelana (Great Journey of Teenagers)",
+    "chineseTitle": "少年歌行",
+    "currentEpisodes": 52,
+    "totalEpisodes": 52,
+    "status": "Tamat",
+    "genres": [
+      "Wuxia",
+      "Aksi",
+      "Petualangan"
+    ],
+    "rating": 9.6,
+    "studio": "Build Dream",
+    "uploadDay": "Selasa",
+    "isRecentlyUpdated": true,
+    "latestEpisodeUpdateNote": "Episode 52 Sub Indo!",
+    "poster": ""
+  },
+  {
+    "id": "no_doubt_in_us",
+    "title": "Jiwa Tertukar Kaisar dan Ratu (No Doubt In Us)",
+    "chineseTitle": "两不疑",
+    "currentEpisodes": 48,
+    "totalEpisodes": 48,
+    "status": "Tamat",
+    "genres": [
+      "Romantis",
+      "Komedi",
+      "Sejarah"
+    ],
+    "rating": 9.5,
+    "studio": "Paper Plane Animation",
+    "uploadDay": "Kamis",
+    "isRecentlyUpdated": true,
+    "latestEpisodeUpdateNote": "Episode 48 Sub Indo!",
+    "poster": ""
+  },
+  {
+    "id": "immortal_king",
+    "title": "Kehidupan Raja Abadi (The Daily Life of the Immortal King)",
+    "chineseTitle": "仙王的日常生活",
+    "currentEpisodes": 48,
+    "totalEpisodes": 48,
+    "status": "Tamat",
+    "genres": [
+      "Komedi",
+      "Fantasi",
+      "Aksi"
+    ],
+    "rating": 9.3,
+    "studio": "Haoliners",
+    "uploadDay": "Minggu",
+    "isRecentlyUpdated": true,
+    "latestEpisodeUpdateNote": "Episode 48 Sub Indo!",
+    "poster": ""
+  },
+  {
+    "id": "rakshasa_street",
+    "title": "Jalan Rakshasa (Rakshasa Street)",
+    "chineseTitle": "镇魂街",
+    "currentEpisodes": 48,
+    "totalEpisodes": 48,
+    "status": "Tamat",
+    "genres": [
+      "Aksi",
+      "Supranatural",
+      "Fantasi"
+    ],
+    "rating": 9.6,
+    "studio": "L2Studio",
+    "uploadDay": "Sabtu",
+    "isRecentlyUpdated": true,
+    "latestEpisodeUpdateNote": "Episode 48 Sub Indo!",
+    "poster": ""
+  },
+  {
+    "id": "scissor_seven",
+    "title": "Gunting Sakti Tujuh (Scissor Seven)",
+    "chineseTitle": "刺客伍六七",
+    "currentEpisodes": 40,
+    "totalEpisodes": 40,
+    "status": "Tamat",
+    "genres": [
+      "Komedi",
+      "Aksi",
+      "Wuxia"
+    ],
+    "rating": 9.8,
+    "studio": "AHA Entertainment",
+    "uploadDay": "Rabu",
+    "isRecentlyUpdated": true,
+    "latestEpisodeUpdateNote": "Episode 40 Sub Indo!",
+    "poster": ""
+  },
+  {
+    "id": "kings_avatar",
+    "title": "Avatar Sang Raja Game (The King's Avatar)",
+    "chineseTitle": "全职高手",
+    "currentEpisodes": 36,
+    "totalEpisodes": 36,
+    "status": "Tamat",
+    "genres": [
+      "eSports",
+      "Aksi",
+      "Gaming"
+    ],
+    "rating": 9.7,
+    "studio": "B.CMAY",
+    "uploadDay": "Jumat",
+    "isRecentlyUpdated": true,
+    "latestEpisodeUpdateNote": "Episode 36 Sub Indo!",
+    "poster": ""
+  },
+  {
+    "id": "fairies_album",
+    "title": "Buku Catatan Siluman (Fairies Album)",
+    "chineseTitle": "百妖谱",
+    "currentEpisodes": 36,
+    "totalEpisodes": 36,
+    "status": "Tamat",
+    "genres": [
+      "Fantasi",
+      "Supranatural",
+      "Drama"
+    ],
+    "rating": 9.5,
+    "studio": "Haoliners",
+    "uploadDay": "Rabu",
+    "isRecentlyUpdated": true,
+    "latestEpisodeUpdateNote": "Episode 36 Sub Indo!",
+    "poster": ""
+  },
+  {
+    "id": "cinderella_chef",
+    "title": "Koki Modern Cinderella (Cinderella Chef)",
+    "chineseTitle": "萌妻食神",
+    "currentEpisodes": 36,
+    "totalEpisodes": 36,
+    "status": "Tamat",
+    "genres": [
+      "Isekai",
+      "Romantis",
+      "Kuliner"
+    ],
+    "rating": 9.2,
+    "studio": "Wulifang",
+    "uploadDay": "Sabtu",
+    "isRecentlyUpdated": true,
+    "latestEpisodeUpdateNote": "Episode 36 Sub Indo!",
+    "poster": ""
+  },
+  {
+    "id": "modao",
+    "title": "Sang Guru Sekte Iblis (Grandmaster of Demonic Cultivation)",
+    "chineseTitle": "魔道祖师",
+    "currentEpisodes": 35,
+    "totalEpisodes": 35,
+    "status": "Tamat",
+    "genres": [
+      "Wuxia",
+      "Misteri",
+      "Aksi"
+    ],
+    "rating": 9.8,
+    "studio": "B.CMAY PICTURES",
+    "uploadDay": "Sabtu",
+    "isRecentlyUpdated": true,
+    "latestEpisodeUpdateNote": "Episode 35 Sub Indo!",
+    "poster": ""
+  },
+  {
+    "id": "carp_reborn",
+    "title": "Kelahiran Kembali Ikan Mas (Carp Reborn)",
+    "chineseTitle": "元龙",
+    "currentEpisodes": 32,
+    "totalEpisodes": 32,
+    "status": "Tamat",
+    "genres": [
+      "Isekai",
+      "Sci-Fi",
+      "Kultivasi"
+    ],
+    "rating": 9.2,
+    "studio": "Bilibili Studio",
+    "uploadDay": "Minggu",
+    "isRecentlyUpdated": true,
+    "latestEpisodeUpdateNote": "Episode 32 Sub Indo!",
+    "poster": ""
+  },
+  {
+    "id": "tomb_of_fallen_gods",
+    "title": "Makam Para Dewa (Tomb of Fallen Gods)",
+    "chineseTitle": "神墓",
+    "currentEpisodes": 30,
+    "totalEpisodes": 0,
+    "status": "Ongoing",
+    "genres": [
+      "Kultivasi",
+      "Mitologi",
+      "Aksi"
+    ],
+    "rating": 9.1,
+    "studio": "Wonder Cat Animation",
+    "uploadDay": "Sabtu",
+    "isRecentlyUpdated": true,
+    "latestEpisodeUpdateNote": "Episode 30 Sub Indo!",
+    "poster": ""
+  },
+  {
+    "id": "yuan_zun",
+    "title": "Pangeran Naga Yuan (Dragon Prince Yuan)",
+    "chineseTitle": "元尊",
+    "currentEpisodes": 26,
+    "totalEpisodes": 26,
+    "status": "Tamat",
+    "genres": [
+      "Kultivasi",
+      "Aksi",
+      "Fantasi"
+    ],
+    "rating": 9.6,
+    "studio": "Sparkly Key",
+    "uploadDay": "Kamis",
+    "isRecentlyUpdated": true,
+    "latestEpisodeUpdateNote": "Episode 26 Sub Indo!",
+    "poster": ""
+  },
+  {
+    "id": "junior_white_horse",
+    "title": "Masa Muda Mabuk Angin (Dashing Youth)",
+    "chineseTitle": "少年白马醉春风",
+    "currentEpisodes": 26,
+    "totalEpisodes": 26,
+    "status": "Tamat",
+    "genres": [
+      "Wuxia",
+      "Aksi",
+      "Petualangan"
+    ],
+    "rating": 9.5,
+    "studio": "Build Dream",
+    "uploadDay": "Rabu",
+    "isRecentlyUpdated": true,
+    "latestEpisodeUpdateNote": "Episode 26 Sub Indo!",
+    "poster": ""
+  },
+  {
+    "id": "heaven_officials_blessing",
+    "title": "Berkah Pejabat Surga (Heaven Official's Blessing)",
+    "chineseTitle": "天官赐福",
+    "currentEpisodes": 24,
+    "totalEpisodes": 24,
+    "status": "Tamat",
+    "genres": [
+      "Fantasi",
+      "Romantis",
+      "Misteri"
+    ],
+    "rating": 9.7,
+    "studio": "B.CMAY PICTURES",
+    "uploadDay": "Rabu",
+    "isRecentlyUpdated": true,
+    "latestEpisodeUpdateNote": "Episode 24 Sub Indo!",
+    "poster": ""
+  },
+  {
+    "id": "link_click",
+    "title": "Agen Penjelajah Waktu (Link Click)",
+    "chineseTitle": "时光代理人",
+    "currentEpisodes": 24,
+    "totalEpisodes": 24,
+    "status": "Tamat",
+    "genres": [
+      "Misteri",
+      "Fantasi",
+      "Sci-Fi"
+    ],
+    "rating": 9.8,
+    "studio": "Bilibili Studio",
+    "uploadDay": "Jumat",
+    "isRecentlyUpdated": true,
+    "latestEpisodeUpdateNote": "Episode 24 Sub Indo!",
+    "poster": ""
+  },
+  {
+    "id": "white_cat_legend",
+    "title": "Buku Harian Kucing Putih (White Cat Legend)",
+    "chineseTitle": "大理寺日志",
+    "currentEpisodes": 24,
+    "totalEpisodes": 24,
+    "status": "Tamat",
+    "genres": [
+      "Misteri",
+      "Komedi",
+      "Sejarah"
+    ],
+    "rating": 9.6,
+    "studio": "B.CMAY PICTURES",
+    "uploadDay": "Selasa",
+    "isRecentlyUpdated": true,
+    "latestEpisodeUpdateNote": "Episode 24 Sub Indo!",
+    "poster": ""
+  },
+  {
+    "id": "spare_me_great_lord",
+    "title": "Ampuni Aku Yang Mulia (Spare Me, Great Lord!)",
+    "chineseTitle": "大王饶命",
+    "currentEpisodes": 24,
+    "totalEpisodes": 24,
+    "status": "Tamat",
+    "genres": [
+      "Komedi",
+      "Kultivasi",
+      "Aksi"
+    ],
+    "rating": 9.5,
+    "studio": "Big Firebird",
+    "uploadDay": "Sabtu",
+    "isRecentlyUpdated": true,
+    "latestEpisodeUpdateNote": "Episode 24 Sub Indo!",
+    "poster": ""
+  },
+  {
+    "id": "ling_cage",
+    "title": "Sangkar Jiwa (Ling Cage: Incarnation)",
+    "chineseTitle": "灵笼",
+    "currentEpisodes": 16,
+    "totalEpisodes": 16,
+    "status": "Tamat",
+    "genres": [
+      "Sci-Fi",
+      "Aksi",
+      "Post-Apocalyptic"
+    ],
+    "rating": 9.8,
+    "studio": "YHKT Entertainment",
+    "uploadDay": "Sabtu",
+    "isRecentlyUpdated": true,
+    "latestEpisodeUpdateNote": "Episode 16 Sub Indo!",
+    "poster": ""
+  },
+  {
+    "id": "dragon_raja",
+    "title": "Klan Raja Naga (Dragon Raja)",
+    "chineseTitle": "龙族",
+    "currentEpisodes": 16,
+    "totalEpisodes": 16,
+    "status": "Tamat",
+    "genres": [
+      "Fantasi",
+      "Aksi",
+      "Sci-Fi"
+    ],
+    "rating": 9.4,
+    "studio": "Garden Culture",
+    "uploadDay": "Jumat",
+    "isRecentlyUpdated": true,
+    "latestEpisodeUpdateNote": "Episode 16 Sub Indo!",
+    "poster": ""
+  },
+  {
+    "id": "first_order",
+    "title": "Urutan Pertama (The First Order)",
+    "chineseTitle": "第一序列",
+    "currentEpisodes": 16,
+    "totalEpisodes": 16,
+    "status": "Tamat",
+    "genres": [
+      "Sci-Fi",
+      "Aksi",
+      "Komedi"
+    ],
+    "rating": 9.3,
+    "studio": "Bilibili",
+    "uploadDay": "Jumat",
+    "isRecentlyUpdated": true,
+    "latestEpisodeUpdateNote": "Episode 16 Sub Indo!",
+    "poster": ""
+  },
+  {
+    "id": "island_of_siliang",
+    "title": "Pulau Misteri Siliang (The Island of Siliang)",
+    "chineseTitle": "眷思量",
+    "currentEpisodes": 15,
+    "totalEpisodes": 15,
+    "status": "Tamat",
+    "genres": [
+      "Fantasi",
+      "Romantis",
+      "Misteri"
+    ],
+    "rating": 9.6,
+    "studio": "Year Young Culture",
+    "uploadDay": "Kamis",
+    "isRecentlyUpdated": true,
+    "latestEpisodeUpdateNote": "Episode 15 Sub Indo!",
+    "poster": ""
+  },
+  {
+    "id": "lord_of_mysteries",
+    "title": "Tuan Sang Penguasa Misteri (Lord of the Mysteries)",
+    "chineseTitle": "诡秘之主",
+    "currentEpisodes": 12,
+    "totalEpisodes": 12,
+    "status": "Tamat",
+    "genres": [
+      "Misteri",
+      "Fantasi",
+      "Sci-Fi"
+    ],
+    "rating": 9.8,
+    "studio": "B.CMAY PICTURES",
+    "uploadDay": "Jumat",
+    "isRecentlyUpdated": true,
+    "latestEpisodeUpdateNote": "Episode 12 Sub Indo!",
+    "poster": ""
+  },
+  {
+    "id": "fog_hill",
+    "title": "Kabut Lima Elemen (Fog Hill of Five Elements)",
+    "chineseTitle": "雾山五行",
+    "currentEpisodes": 8,
+    "totalEpisodes": 8,
+    "status": "Tamat",
+    "genres": [
+      "Wuxia",
+      "Aksi",
+      "Fantasi"
+    ],
+    "rating": 9.9,
+    "studio": "Samsara Animation",
+    "uploadDay": "Kamis",
+    "isRecentlyUpdated": true,
+    "latestEpisodeUpdateNote": "Episode 8 Sub Indo!",
+    "poster": ""
   }
 ]

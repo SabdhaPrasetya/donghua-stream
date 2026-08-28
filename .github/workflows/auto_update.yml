@@ -1,8 +1,8 @@
-name: Auto Update Donghua Catalog (Donghive)
+name: Auto Update Donghua Catalog (Multi-Source)
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # Every 6 hours
+    - cron: '0 */6 * * *'
   workflow_dispatch:
 
 jobs:
@@ -19,13 +19,13 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Run Donghive Scraper
-        run: python server_tools/donghive_scraper.py
+      - name: Run Multi-Source Scraper
+        run: python server_tools/multi_source_scraper.py
 
       - name: Commit and Push Updates
         run: |
-          git config --global user.name "DonghiveBot"
+          git config --global user.name "DonghuaBot"
           git config --global user.email "bot@donghua.app"
           git add server_tools/donghua_catalog.json
-          git diff --staged --quiet || git commit -m "Auto update from Donghive - $(date +%Y-%m-%d)"
+          git diff --staged --quiet || git commit -m "Auto update $(date +%Y-%m-%d) - 73 titles, 10K+ episodes"
           git push
