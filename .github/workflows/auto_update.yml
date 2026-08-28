@@ -1,9 +1,9 @@
-name: Auto Update Donghua Catalog
+name: Auto Update Donghua Catalog (Donghive)
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # Berjalan otomatis setiap 6 jam
-  workflow_dispatch:       # Tombol untuk memicu manual kapan saja
+    - cron: '0 */6 * * *'  # Every 6 hours
+  workflow_dispatch:
 
 jobs:
   update-donghua:
@@ -19,14 +19,13 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Jalankan Bot Auto Update
-        run: |
-          python server_tools/updater.py
+      - name: Run Donghive Scraper
+        run: python server_tools/donghive_scraper.py
 
-      - name: Simpan dan Publikasikan Hasil Update
+      - name: Commit and Push Updates
         run: |
-          git config --global user.name "DonghuaBot"
+          git config --global user.name "DonghiveBot"
           git config --global user.email "bot@donghua.app"
           git add server_tools/donghua_catalog.json
-          git commit -m "Auto update episode donghua terbaru" || exit 0
+          git diff --staged --quiet || git commit -m "Auto update from Donghive - $(date +%Y-%m-%d)"
           git push
