@@ -2,7 +2,7 @@ name: Build & Release APK
 
 on:
   push:
-    branches: [ main, master ]
+    branches: [ master ]
   workflow_dispatch:       # Tombol manual untuk trigger build
 
 jobs:
@@ -22,7 +22,7 @@ jobs:
         uses: android-actions/setup-android@v3
 
       - name: Decode Keystore
-        run: echo "${{ secrets.KEYSTORE_BASE64 }}" | base64 -d > my-upload-key.jks
+        run: echo "${{ secrets.KEYSTORE_BASE64 }}" | base64 -d > app/my-upload-key.jks
 
       - name: Create local.properties
         run: echo "sdk.dir=$ANDROID_HOME" > local.properties
@@ -33,7 +33,7 @@ jobs:
       - name: Build Release APK
         run: ./gradlew assembleRelease --no-daemon
         env:
-          KEYSTORE_PATH: my-upload-key.jks
+          KEYSTORE_PATH: app/my-upload-key.jks
           STORE_PASSWORD: ${{ secrets.STORE_PASSWORD }}
           KEY_PASSWORD: ${{ secrets.KEY_PASSWORD }}
 
@@ -45,11 +45,12 @@ jobs:
           retention-days: 30
 
       - name: Create GitHub Release
-        if: github.ref == 'refs/heads/main'
+        if: github.ref == 'refs/heads/master'
         uses: softprops/action-gh-release@v2
         with:
           files: app/build/outputs/apk/release/*.apk
           tag_name: v1.0.${{ github.run_number }}
+          generate_release_notes: true
           name: "Donghua Stream v1.0.${{ github.run_number }}"
           body: |
             🎬 Donghua Stream - Streaming & Unduhan 4K
