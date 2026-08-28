@@ -11,7 +11,7 @@ import sys
 import urllib.request
 from datetime import datetime
 
-CATALOG_FILE = "donghua_catalog.json"
+CATALOG_FILE = "server_tools/donghua_catalog.json"
 
 def load_current_catalog():
     if os.path.exists(CATALOG_FILE):

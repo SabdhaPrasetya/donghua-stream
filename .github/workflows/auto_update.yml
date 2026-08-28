@@ -19,7 +19,7 @@ jobs:
 
       - name: Jalankan Bot Auto Update
         run: |
-          python updater.py
+          python server_tools/updater.py
 
       - name: Simpan dan Publikasikan Hasil Update
         run: |
